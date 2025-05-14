@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 748.07 183.51">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: Inter-Medium, Inter;
+        font-size: 12px;
+        font-variation-settings: 'opsz' 14, 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #1b1d22;
+      }
+
+      .cls-4 {
+        fill: #f27123;
+      }
+
+      .cls-5 {
+        fill: #e9e7e4;
+      }
+
+      .cls-6 {
+        fill: #cbcdce;
+      }
+
+      .cls-7 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        fill: #69676c;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="18.92" y="17.96" width="108.61" height="108.61"/>
+  <rect class="cls-3" x="168.33" y="17.96" width="108.61" height="108.61"/>
+  <rect class="cls-10" x="317.75" y="17.96" width="108.61" height="108.61"/>
+  <rect class="cls-6" x="467.17" y="17.96" width="108.61" height="108.61"/>
+  <rect class="cls-5" x="616.59" y="17.96" width="108.61" height="108.61"/>
+  <text class="cls-2" transform="translate(19.61 150.71)"><tspan x="0" y="0">OP ORANGE</tspan><tspan x="0" y="14.4">#F27123</tspan></text>
+  <text class="cls-1" transform="translate(167.56 150.71)"><tspan x="0" y="0">OP BL</tspan><tspan class="cls-11" x="34.76" y="0">A</tspan><tspan x="42.83" y="0">CK</tspan><tspan x="0" y="14.4">#1B1D22</tspan></text>
+  <text class="cls-1" transform="translate(317.75 150.71)"><tspan x="0" y="0">SMOKE GREY</tspan><tspan x="0" y="14.4">#696</tspan><tspan class="cls-9" x="30.34" y="14.4">7</tspan><tspan x="37.01" y="14.4">6C</tspan></text>
+  <text class="cls-1" transform="translate(467.17 150.71)"><tspan class="cls-11" x="0" y="0">A</tspan><tspan class="cls-8" x="8.07" y="0">G</tspan><tspan class="cls-7" x="16.73" y="0">A</tspan><tspan x="24.21" y="0">TE GREY</tspan><tspan x="0" y="14.4">#CBCDCE</tspan></text>
+  <text class="cls-1" transform="translate(616.59 150.71)"><tspan x="0" y="0">OP WHITE</tspan><tspan x="0" y="14.4">#E9E7E4</tspan></text>
+</svg>
