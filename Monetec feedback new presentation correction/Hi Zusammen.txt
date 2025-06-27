@@ -1,0 +1,17 @@
+Hi Zusammen
+@BGR , Günther hat mir heute den Rolling der Monetec-Präsentation weitergeleitet. Ich habe mir alles im Detail angeschaut. In meinen Augen ist die Präsentation visuell sehr gelungen! Vielen Dank schon mal für deine Mühe an der Stelle.
+
+Bzgl. der Anpassungen:
+Ich habe sämtliche notwenigen Punkte, die angepasst werden müssen , in einem kompakten Dokument zusammengefasst, übersichtlich je Slide. Die einzelnen Korrekturen sind wie "take aways", können also genauso übernommen werden wie beschrieben, copy paste. Alles, was nicht erwähnt wird, passt.
+
+Ebenfalls, was ich gemerkt hab: jeder zweite Slide "bugt" noch rum - egal mit welchem Browser oder Ansicht die Präsentation aufgemacht wird. Sprich, Sachen sind teils abgeschnitten, teils geklumpt, teils verschoben, ich gehe aber davon aus, dass es wahrscheinlich noch final verbessert wird. (Siehe Beispiele unten)
+
+Hintergrund der notwenigen Änderungen (95% Text) zum Verständnis:
+* A - Aussagen / Formulierungen / Kennzahlen waren grundsätzlich nicht korrekt - geringer Teil
+* B - Aussagen / Formulierungen / Kennzahlen dürfen so aus rechtlicher Sicht nicht gesagt werden wie sie stehen - Großteil
+* C - Aussagen / Formulierungen / Kennzahlen waren im Kontext zu allgemein oder zu spezifisch formuliert, was wiederum entweder in A oder B landete - geringer Teil
+
+Weiterhin ein paar zusaätzliche Hinweise:
+Ab Slide 37 wechselt auf einmal der Schreibstil vom €-Zeichen. Davor sauber vor der Zahl geführt (bspw. € 3.000,00) ab Slide 37 auf einmal nach der Zahl . Ich habe die einzelnen Stellen ab 37 nicht erwähnt, weil es sonst den Rahmen der Vermerke gesprengt hätte. Bitte, wenn möglich, deshlab ab Slide 37 kurz alle €-Zeichen vor die jeweilige Zahl platzieren, damit konsistent bleibt
+
+Sonst dürfte es gewesen sein. Falls Fragen offen sind, bin ich erreichbar
